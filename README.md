@@ -5,7 +5,7 @@ This application predicts whether a patient is at **high or low risk of recurren
 ---
 ## 🌐 Live Demo
 
-[🚀 Try the Live App](https://thyroid-cancer-recurrence-using-ml.onrender.com)
+[🚀  Try the Live App](https://thyroid-cancer-recurrence-using-ml.onrender.com)
 
 Deployed on Render using Streamlit.
 
@@ -105,3 +105,4 @@ http://localhost:8501
 
 This project is developed for educational and research purposes only.  
 It is not intended for real-world medical diagnosis.
+
