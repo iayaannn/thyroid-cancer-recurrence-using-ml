@@ -46,7 +46,7 @@ Deployed on Render using Streamlit.
 ## Project Structure
 
 ```
-OncoPredict-Thyroid/
+thyroid-cancer-recurrence-using-ml/
 │
 ├── app.py
 ├── model.pkl
@@ -61,8 +61,8 @@ OncoPredict-Thyroid/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/OncoPredict-Thyroid.git
-cd OncoPredict-Thyroid
+git clone https://github.com/iayaannn/thyroid-cancer-recurrence-using-ml.git
+cd thyroid-cancer-recurrence-using-ml
 ```
 
 ## 2. Create Virtual Environment
